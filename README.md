@@ -1,2 +1,1 @@
-Final assignment for Python Project for Data Science
-https://www.coursera.org/learn/python-project-for-data-science
+Jupyter Notebooks for IBM Data Analyst Professional Certificate
